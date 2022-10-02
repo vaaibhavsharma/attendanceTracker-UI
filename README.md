@@ -1,7 +1,5 @@
 # Template For Attendance Tracker ⚙️
 
-Front end for Attendance Tracker Website
-
 Attendance Tracker is a frontend template made for a Tracking Attendance with Simple UI. It consist for following pages
 
 - Login Page
@@ -11,8 +9,10 @@ Attendance Tracker is a frontend template made for a Tracking Attendance with Si
 
 
 ### Installing 
+### Requirements
 
-Static Template is based on Tailwind CSS
+- npm
+- tailwindcss
 
 Clone the repo
 ```
